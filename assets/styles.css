@@ -1,0 +1,24 @@
+body{
+    font:13px/1.3 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-rendering:optimizeLegibility;
+    -webkit-font-smoothing:antialiased;
+}
+
+#warning-etfs{
+    color:red;
+}
+
+#table{
+    width: 50%;
+}
+
+.bottom-div{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#results{
+    margin-left: 5%;
+    font-size: medium;
+}

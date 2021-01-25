@@ -1,0 +1,1 @@
+web: gunicorn TA_Dashboard:server
